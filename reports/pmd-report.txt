@@ -1,0 +1,600 @@
+src/btnNewButton/addActionListener.java:1:	Package name contains upper case characters
+src/btnNewButton/addActionListener.java:3:	Class names should begin with an uppercase character
+src/btnNewButton/addActionListener.java:3:	headerCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:23:	Class names should begin with an uppercase character
+src/org/teipir/softeng/jdbc/admin.java:23:	The class 'admin' has a Cyclomatic Complexity of 18 (Highest = 33).
+src/org/teipir/softeng/jdbc/admin.java:23:	The class 'admin' has a Modified Cyclomatic Complexity of 18 (Highest = 33).
+src/org/teipir/softeng/jdbc/admin.java:23:	The class 'admin' has a Standard Cyclomatic Complexity of 18 (Highest = 33).
+src/org/teipir/softeng/jdbc/admin.java:23:	This class has too many methods, consider refactoring it.
+src/org/teipir/softeng/jdbc/admin.java:23:	Too many fields
+src/org/teipir/softeng/jdbc/admin.java:23:	headerCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:25:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:25:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:30:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/org/teipir/softeng/jdbc/admin.java:30:	Parameter 'args' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:31:	To be compliant to J2EE, a webapp should not use any thread.
+src/org/teipir/softeng/jdbc/admin.java:32:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:34:	Local variable 'frame' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:36:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:37:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:42:	Avoid using redundant field initializer for 'conn'
+src/org/teipir/softeng/jdbc/admin.java:42:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:42:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:42:	Use explicit scoping instead of the default package private level
+src/org/teipir/softeng/jdbc/admin.java:42:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:43:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:43:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:43:	Perhaps 'btnSave' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:43:	Private field 'btnSave' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:43:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:44:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:44:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:44:	Perhaps 'lblNewLabel' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:44:	Private field 'lblNewLabel' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:44:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:45:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:45:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:45:	Perhaps 'lblName' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:45:	Private field 'lblName' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:45:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:46:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:46:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:46:	Perhaps 'lblSurname' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:46:	Private field 'lblSurname' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:46:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:47:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:47:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:47:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:47:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:48:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:48:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:48:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+src/org/teipir/softeng/jdbc/admin.java:48:	Private field 'textField_1' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:48:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:49:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:49:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:49:	Private field 'table' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:49:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:50:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:50:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:50:	Perhaps 'button' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:50:	Private field 'button' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:50:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:51:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:51:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:51:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/org/teipir/softeng/jdbc/admin.java:51:	Perhaps 'button_1' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:51:	Private field 'button_1' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:51:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:52:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:52:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:52:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_2' is not final.
+src/org/teipir/softeng/jdbc/admin.java:52:	Perhaps 'button_2' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:52:	Private field 'button_2' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:52:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:53:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:53:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:53:	Private field 'textPane' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:53:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:54:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:54:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:54:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_3' is not final.
+src/org/teipir/softeng/jdbc/admin.java:54:	Perhaps 'button_3' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:54:	Private field 'button_3' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:54:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:55:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:55:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:55:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_4' is not final.
+src/org/teipir/softeng/jdbc/admin.java:55:	Perhaps 'button_4' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:55:	Private field 'button_4' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:55:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:56:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:56:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:56:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_5' is not final.
+src/org/teipir/softeng/jdbc/admin.java:56:	Perhaps 'button_5' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:56:	Private field 'button_5' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:56:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:57:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:57:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:57:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_6' is not final.
+src/org/teipir/softeng/jdbc/admin.java:57:	Perhaps 'button_6' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:57:	Private field 'button_6' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:57:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:58:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:58:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:58:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_7' is not final.
+src/org/teipir/softeng/jdbc/admin.java:58:	Perhaps 'button_7' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:58:	Private field 'button_7' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:58:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:59:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:59:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:59:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_8' is not final.
+src/org/teipir/softeng/jdbc/admin.java:59:	Perhaps 'button_8' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:59:	Private field 'button_8' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:59:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:60:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:60:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:60:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_9' is not final.
+src/org/teipir/softeng/jdbc/admin.java:60:	Perhaps 'button_9' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:60:	Private field 'button_9' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:60:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:61:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:61:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:61:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_10' is not final.
+src/org/teipir/softeng/jdbc/admin.java:61:	Perhaps 'button_10' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:61:	Private field 'button_10' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:61:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:62:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/admin.java:62:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/admin.java:62:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_11' is not final.
+src/org/teipir/softeng/jdbc/admin.java:62:	Perhaps 'button_11' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/admin.java:62:	Private field 'button_11' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/admin.java:62:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:67:	It is a good practice to call super() in a constructor
+src/org/teipir/softeng/jdbc/admin.java:67:	The constructor 'admin' has a Cyclomatic Complexity of 33.
+src/org/teipir/softeng/jdbc/admin.java:67:	The constructor 'admin' has a Modified Cyclomatic Complexity of 33.
+src/org/teipir/softeng/jdbc/admin.java:67:	The constructor 'admin' has a Standard Cyclomatic Complexity of 33.
+src/org/teipir/softeng/jdbc/admin.java:67:	The constructor with 0 parameters has an NCSS line count of 121
+src/org/teipir/softeng/jdbc/admin.java:71:	Local variable 'lblBnbnbmnmnn' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:81:	Local variable 'loadtable' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:82:	The String literal "Tahoma" appears 19 times in this file; the first occurrence is on line 82
+src/org/teipir/softeng/jdbc/admin.java:84:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:84:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:84:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:87:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:88:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:89:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/admin.java:89:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/admin.java:89:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:89:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:92:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:93:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:101:	The String literal "save" appears 4 times in this file; the first occurrence is on line 101
+src/org/teipir/softeng/jdbc/admin.java:104:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:104:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:104:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:107:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:108:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:109:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:110:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:111:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:112:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:114:	The String literal "data saved" appears 4 times in this file; the first occurrence is on line 114
+src/org/teipir/softeng/jdbc/admin.java:116:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:118:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:119:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:156:	Local variable 'btnDelete' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:156:	The String literal "delete" appears 4 times in this file; the first occurrence is on line 156
+src/org/teipir/softeng/jdbc/admin.java:159:	Parameter 'arg0' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:159:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:162:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:163:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:164:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:166:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:168:	The String literal "data delete" appears 4 times in this file; the first occurrence is on line 168
+src/org/teipir/softeng/jdbc/admin.java:170:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:172:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:173:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:184:	Local variable 'btnUpdate' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:184:	The String literal "update" appears 4 times in this file; the first occurrence is on line 184
+src/org/teipir/softeng/jdbc/admin.java:187:	Parameter 'arg0' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:187:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:190:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:190:	The String literal "' ,info='" appears 4 times in this file; the first occurrence is on line 190
+src/org/teipir/softeng/jdbc/admin.java:190:	The String literal "' ,name='" appears 4 times in this file; the first occurrence is on line 190
+src/org/teipir/softeng/jdbc/admin.java:190:	The String literal "'where id='" appears 4 times in this file; the first occurrence is on line 190
+src/org/teipir/softeng/jdbc/admin.java:191:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:193:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:195:	The String literal "data updated" appears 4 times in this file; the first occurrence is on line 195
+src/org/teipir/softeng/jdbc/admin.java:197:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:199:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:200:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:210:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:210:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:210:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:212:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:213:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:214:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/admin.java:214:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/admin.java:214:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:214:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:217:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:218:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:228:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:228:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:228:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:230:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:231:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:232:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/admin.java:232:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/admin.java:232:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:232:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:235:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:236:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:246:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:246:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:246:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:248:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:249:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:250:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/admin.java:250:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/admin.java:250:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:250:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:253:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:254:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:268:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:268:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:268:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:270:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:271:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:272:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:274:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:278:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:280:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:281:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:291:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:291:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:291:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:293:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:294:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:295:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:296:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:297:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:298:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:302:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:304:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:305:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:315:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:315:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:315:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:317:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:318:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:320:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:324:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:326:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:327:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:337:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:337:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:337:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:339:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:340:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:341:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:343:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:347:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:349:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:350:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:360:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:360:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:360:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:362:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:363:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:364:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:365:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:366:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:367:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:371:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:373:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:374:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:384:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:384:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:384:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:386:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:387:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:389:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:393:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:395:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:396:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:406:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:406:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:406:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:408:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:409:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:410:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:412:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:416:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:418:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:419:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:429:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:429:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:429:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:431:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:432:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:433:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:434:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:435:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:436:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:440:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:442:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:443:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/admin.java:453:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/admin.java:453:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/admin.java:453:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/admin.java:455:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:456:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/admin.java:458:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:462:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/admin.java:464:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/admin.java:465:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/database.java:6:	Avoid unused imports such as 'javax.swing.JOptionPane'
+src/org/teipir/softeng/jdbc/database.java:8:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/org/teipir/softeng/jdbc/database.java:8:	Class names should begin with an uppercase character
+src/org/teipir/softeng/jdbc/database.java:8:	headerCommentRequirement Required
+src/org/teipir/softeng/jdbc/database.java:9:	Avoid using redundant field initializer for 'conn'
+src/org/teipir/softeng/jdbc/database.java:9:	Use explicit scoping instead of the default package private level
+src/org/teipir/softeng/jdbc/database.java:9:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/database.java:10:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/database.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/database.java:15:	Local variable 'connectionURL' could be declared final
+src/org/teipir/softeng/jdbc/database.java:16:	Local variable 'username' could be declared final
+src/org/teipir/softeng/jdbc/database.java:17:	Local variable 'password' could be declared final
+src/org/teipir/softeng/jdbc/database.java:18:	Local variable 'dbConnector' could be declared final
+src/org/teipir/softeng/jdbc/database.java:19:	A method should have only one exit point, and that should be the last statement in the method
+src/org/teipir/softeng/jdbc/database.java:19:	Consider simply returning the value vs storing it in local variable 'dbConnector'
+src/org/teipir/softeng/jdbc/database.java:22:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/database.java:23:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/login.java:21:	Class names should begin with an uppercase character
+src/org/teipir/softeng/jdbc/login.java:21:	headerCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/login.java:23:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:28:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/org/teipir/softeng/jdbc/login.java:28:	Parameter 'args' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/login.java:29:	To be compliant to J2EE, a webapp should not use any thread.
+src/org/teipir/softeng/jdbc/login.java:30:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:32:	Local variable 'window' could be declared final
+src/org/teipir/softeng/jdbc/login.java:33:	Potential violation of Law of Demeter (static property access)
+src/org/teipir/softeng/jdbc/login.java:34:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/login.java:35:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/login.java:40:	Avoid using redundant field initializer for 'connection'
+src/org/teipir/softeng/jdbc/login.java:40:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/login.java:40:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/login.java:40:	Use explicit scoping instead of the default package private level
+src/org/teipir/softeng/jdbc/login.java:40:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:41:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/login.java:41:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/login.java:41:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:42:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/login.java:42:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/login.java:42:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'passwordField_1' is not final.
+src/org/teipir/softeng/jdbc/login.java:42:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:43:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/login.java:43:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/login.java:43:	Perhaps 'label' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/login.java:43:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/login.java:63:	Local variable 'lblNewLabel' could be declared final
+src/org/teipir/softeng/jdbc/login.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/login.java:68:	Local variable 'lblNewLabel_1' could be declared final
+src/org/teipir/softeng/jdbc/login.java:68:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_1' is not final.
+src/org/teipir/softeng/jdbc/login.java:71:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/login.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/login.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/login.java:83:	Local variable 'btnNewButton' could be declared final
+src/org/teipir/softeng/jdbc/login.java:86:	Parameter 'arg0' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/login.java:86:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/login.java:88:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/login.java:89:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/login.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/login.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/login.java:93:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/login.java:93:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/login.java:93:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/login.java:93:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/login.java:94:	Found 'DD'-anomaly for variable 'count' (lines '94'-'96').
+src/org/teipir/softeng/jdbc/login.java:94:	Found 'DD'-anomaly for variable 'count' (lines '94'-'96').
+src/org/teipir/softeng/jdbc/login.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/login.java:96:	Found 'DD'-anomaly for variable 'count' (lines '96'-'96').
+src/org/teipir/softeng/jdbc/login.java:96:	Found 'DD'-anomaly for variable 'count' (lines '96'-'96').
+src/org/teipir/softeng/jdbc/login.java:98:	Avoid using Literals in Conditional Statements
+src/org/teipir/softeng/jdbc/login.java:101:	Local variable 'adm' could be declared final
+src/org/teipir/softeng/jdbc/login.java:104:	Avoid using Literals in Conditional Statements
+src/org/teipir/softeng/jdbc/login.java:113:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/login.java:120:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/login.java:123:	Local variable 'img1' could be declared final
+src/org/teipir/softeng/jdbc/login.java:126:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/start.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/org/teipir/softeng/jdbc/start.java:2:	Avoid unused imports such as 'java.awt.BorderLayout'
+src/org/teipir/softeng/jdbc/start.java:5:	Avoid unused imports such as 'java.awt.TextArea'
+src/org/teipir/softeng/jdbc/start.java:6:	Avoid unused imports such as 'java.awt.TextComponent'
+src/org/teipir/softeng/jdbc/start.java:8:	Avoid unused imports such as 'javax.swing.AbstractButton'
+src/org/teipir/softeng/jdbc/start.java:17:	Avoid unused imports such as 'org.teipir.softeng.jdbc.admin'
+src/org/teipir/softeng/jdbc/start.java:17:	No need to import a type that lives in the same package
+src/org/teipir/softeng/jdbc/start.java:18:	No need to import a type that lives in the same package
+src/org/teipir/softeng/jdbc/start.java:20:	Avoid unused imports such as 'com.mysql.jdbc.PreparedStatement'
+src/org/teipir/softeng/jdbc/start.java:38:	Avoid unused imports such as 'javax.swing.DropMode'
+src/org/teipir/softeng/jdbc/start.java:43:	Class names should begin with an uppercase character
+src/org/teipir/softeng/jdbc/start.java:43:	The class 'start' has a Cyclomatic Complexity of 12 (Highest = 20).
+src/org/teipir/softeng/jdbc/start.java:43:	The class 'start' has a Modified Cyclomatic Complexity of 12 (Highest = 20).
+src/org/teipir/softeng/jdbc/start.java:43:	The class 'start' has a Standard Cyclomatic Complexity of 12 (Highest = 20).
+src/org/teipir/softeng/jdbc/start.java:43:	headerCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:45:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:45:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:45:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:46:	Avoid unused private fields such as 'textField'.
+src/org/teipir/softeng/jdbc/start.java:46:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:47:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:48:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:49:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:53:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/org/teipir/softeng/jdbc/start.java:53:	Parameter 'args' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:54:	To be compliant to J2EE, a webapp should not use any thread.
+src/org/teipir/softeng/jdbc/start.java:55:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:57:	Local variable 'frame' could be declared final
+src/org/teipir/softeng/jdbc/start.java:59:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:60:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:65:	Avoid using redundant field initializer for 'conn'
+src/org/teipir/softeng/jdbc/start.java:65:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:65:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:65:	Use explicit scoping instead of the default package private level
+src/org/teipir/softeng/jdbc/start.java:65:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:66:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:66:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:66:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_1' is not final.
+src/org/teipir/softeng/jdbc/start.java:66:	Private field 'table_1' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:66:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:67:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:67:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:67:	Perhaps 'scrollPane' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/start.java:67:	Private field 'scrollPane' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:67:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:68:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:68:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:68:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textPane_1' is not final.
+src/org/teipir/softeng/jdbc/start.java:68:	Private field 'textPane_1' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:68:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:69:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:69:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:69:	Perhaps 'button' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/start.java:69:	Private field 'button' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:69:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:70:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:70:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:70:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/org/teipir/softeng/jdbc/start.java:70:	Perhaps 'button_1' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/start.java:70:	Private field 'button_1' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:70:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:71:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/teipir/softeng/jdbc/start.java:71:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/teipir/softeng/jdbc/start.java:71:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_2' is not final.
+src/org/teipir/softeng/jdbc/start.java:71:	Perhaps 'button_2' could be replaced by a local variable.
+src/org/teipir/softeng/jdbc/start.java:71:	Private field 'button_2' could be made final; it is only initialized in the declaration or constructor.
+src/org/teipir/softeng/jdbc/start.java:71:	fieldCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:78:	It is a good practice to call super() in a constructor
+src/org/teipir/softeng/jdbc/start.java:78:	The constructor 'start' has a Cyclomatic Complexity of 20.
+src/org/teipir/softeng/jdbc/start.java:78:	The constructor 'start' has a Modified Cyclomatic Complexity of 20.
+src/org/teipir/softeng/jdbc/start.java:78:	The constructor 'start' has a Standard Cyclomatic Complexity of 20.
+src/org/teipir/softeng/jdbc/start.java:88:	Local variable 'btnAdmin' could be declared final
+src/org/teipir/softeng/jdbc/start.java:90:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/start.java:90:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:90:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:92:	Found 'DD'-anomaly for variable 'window' (lines '92'-'94').
+src/org/teipir/softeng/jdbc/start.java:92:	Found 'DD'-anomaly for variable 'window' (lines '92'-'94').
+src/org/teipir/softeng/jdbc/start.java:92:	Found 'DD'-anomaly for variable 'window' (lines '92'-'94').
+src/org/teipir/softeng/jdbc/start.java:92:	Found 'DD'-anomaly for variable 'window' (lines '92'-'94').
+src/org/teipir/softeng/jdbc/start.java:92:	Found 'DD'-anomaly for variable 'window' (lines '92'-'94').
+src/org/teipir/softeng/jdbc/start.java:92:	Found 'DD'-anomaly for variable 'window' (lines '92'-'94').
+src/org/teipir/softeng/jdbc/start.java:97:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:99:	Potential violation of Law of Demeter (static property access)
+src/org/teipir/softeng/jdbc/start.java:105:	Local variable 'label' could be declared final
+src/org/teipir/softeng/jdbc/start.java:106:	Local variable 'img1' could be declared final
+src/org/teipir/softeng/jdbc/start.java:111:	Local variable 'loadtable' could be declared final
+src/org/teipir/softeng/jdbc/start.java:113:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/start.java:113:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:113:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:116:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:117:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:118:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:118:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:118:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:118:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:121:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:122:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:137:	Parameter 'arg0' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:137:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:139:	Local variable 'row' could be declared final
+src/org/teipir/softeng/jdbc/start.java:140:	Local variable 'name_' could be declared final
+src/org/teipir/softeng/jdbc/start.java:140:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'name_' is not final.
+src/org/teipir/softeng/jdbc/start.java:140:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/start.java:140:	This statement may have some unnecessary parentheses
+src/org/teipir/softeng/jdbc/start.java:140:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:140:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:141:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:142:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:143:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:143:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:143:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:143:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:144:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:145:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:145:	The String literal "info" appears 4 times in this file; the first occurrence is on line 145
+src/org/teipir/softeng/jdbc/start.java:148:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:151:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:152:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:156:	Local variable 'row' could be declared final
+src/org/teipir/softeng/jdbc/start.java:157:	Local variable 'name_' could be declared final
+src/org/teipir/softeng/jdbc/start.java:157:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'name_' is not final.
+src/org/teipir/softeng/jdbc/start.java:157:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/start.java:157:	This statement may have some unnecessary parentheses
+src/org/teipir/softeng/jdbc/start.java:157:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:157:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:158:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:159:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:160:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:160:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:160:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:160:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:161:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:162:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:165:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:168:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:169:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:173:	Local variable 'row' could be declared final
+src/org/teipir/softeng/jdbc/start.java:174:	Local variable 'name_' could be declared final
+src/org/teipir/softeng/jdbc/start.java:174:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'name_' is not final.
+src/org/teipir/softeng/jdbc/start.java:174:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/start.java:174:	This statement may have some unnecessary parentheses
+src/org/teipir/softeng/jdbc/start.java:174:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:174:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:175:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:176:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:177:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:177:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:177:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:177:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:178:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:179:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:182:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:185:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:186:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:190:	Local variable 'row' could be declared final
+src/org/teipir/softeng/jdbc/start.java:191:	Local variable 'name_' could be declared final
+src/org/teipir/softeng/jdbc/start.java:191:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'name_' is not final.
+src/org/teipir/softeng/jdbc/start.java:191:	Potential violation of Law of Demeter (method chain calls)
+src/org/teipir/softeng/jdbc/start.java:191:	This statement may have some unnecessary parentheses
+src/org/teipir/softeng/jdbc/start.java:191:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:191:	Useless parentheses.
+src/org/teipir/softeng/jdbc/start.java:192:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:193:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:194:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:194:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:194:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:194:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:195:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:196:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:199:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:202:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:203:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:215:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/start.java:215:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:215:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:219:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:220:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:221:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:221:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:221:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:221:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:224:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:225:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:236:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/start.java:236:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:236:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:240:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:241:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:242:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:242:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:242:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:242:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:245:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:246:	Avoid printStackTrace(); use a logger call instead.
+src/org/teipir/softeng/jdbc/start.java:257:	Avoid variables with short names like e
+src/org/teipir/softeng/jdbc/start.java:257:	Parameter 'e' is not assigned and could be declared final
+src/org/teipir/softeng/jdbc/start.java:257:	publicMethodCommentRequirement Required
+src/org/teipir/softeng/jdbc/start.java:259:	Local variable 'query' could be declared final
+src/org/teipir/softeng/jdbc/start.java:260:	Local variable 'pst' could be declared final
+src/org/teipir/softeng/jdbc/start.java:261:	Avoid variables with short names like rs
+src/org/teipir/softeng/jdbc/start.java:261:	Ensure that resources like this ResultSet object are closed after use
+src/org/teipir/softeng/jdbc/start.java:261:	Local variable 'rs' could be declared final
+src/org/teipir/softeng/jdbc/start.java:261:	Potential violation of Law of Demeter (object not created locally)
+src/org/teipir/softeng/jdbc/start.java:264:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/teipir/softeng/jdbc/start.java:265:	Avoid printStackTrace(); use a logger call instead.
